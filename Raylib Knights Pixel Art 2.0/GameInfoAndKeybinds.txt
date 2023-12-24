@@ -1,0 +1,50 @@
+//GAME INFORMATION
+//1000 Knights Will Spawn To The Right Of You. 
+
+
+//KEYBINDS
+//---------------------------------------------------------------------------------------------------------------------------------------------------
+// 1) L: LOCK OR UNLOCK CAMERA
+// 2) LEFT, RIGHT, UP, DOWN ARROW KEYS TO MOVE CAMERA
+// 3) B: RESET
+// 
+//PLAYER_1-------------------------------------------------------------------------------------------------------------------------------------------
+// STANDING
+// 1) A: RUN LEFT
+// 2) D: RUN RIGHT
+// 3) W: DASH OR ROLL IF CROUCHED
+// 4) SPACE: JUMP OR SLIDE IF CROUCHED
+// 5) E: ATTACK 1
+// 6) R: ATTACK 2
+// 7) F: ATTACK COMBO
+// 8) E & R: ATTACK COMBO
+// 9) C: CROUCH
+// 
+// CROUCHED
+// 1) A: CROUCH WALK LEFT
+// 2) D: CROUCH WALK RIGHT
+// 3) W: ROLL
+// 4) SPACE: SLIDE
+// 5) E OR R OR F: CROUCH ATTACK
+// 6) C: STAND
+// 
+// //PLAYER_2-------------------------------------------------------------------------------------------------------------------------------------------
+// STANDING
+// 1) J: RUN LEFT
+// 2) L: RUN RIGHT
+// 3) I: DASH OR ROLL IF CROUCHED
+// 4) M: JUMP OR SLIDE IF CROUCHED
+// 5) U: ATTACK 1
+// 6) Y: ATTACK 2
+// 7) H: ATTACK COMBO
+// 8) U & Y: ATTACK COMBO
+// 9) N: CROUCH
+// 
+// CROUCHED
+// 1) J: CROUCH WALK LEFT
+// 2) L: CROUCH WALK RIGHT
+// 3) I: ROLL
+// 4) M: SLIDE
+// 5) U OR Y OR H: CROUCH ATTACK
+// 6) N: STAND
+//---------------------------------------------------------------------------------------------------------------------------------------------------
